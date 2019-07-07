@@ -1,2 +1,5 @@
 .vscode/launch.json
 package-lock.json
+/vendor
+/Files
+
